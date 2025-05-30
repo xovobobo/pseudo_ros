@@ -1,0 +1,3 @@
+pyzmq
+numpy<2
+rosbags
